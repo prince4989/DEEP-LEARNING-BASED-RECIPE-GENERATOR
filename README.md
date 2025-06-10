@@ -1,13 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/79aa77ca-46a7-48e1-a009-4389b46ddd08)
-
 # Deep learning-based Food Recipe Generator 
-
-Food identification focuses on ingredients, and recipes, not preparation methods. 
-
-Differentiating dish components and preparation methods is crucial in food identification.
-![image](https://github.com/user-attachments/assets/50ab7898-f9e3-4ec1-8d10-91cc8fc27dac)
-
 
 ![Img food](https://github.com/user-attachments/assets/e2528719-8bef-4251-aa53-31269162cf0b)
 
