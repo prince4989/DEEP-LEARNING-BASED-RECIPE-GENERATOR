@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/79aa77ca-46a7-48e1-a009-4389b46ddd08)# Deep learning-based Food Recipe Generator
+
+![image](https://github.com/user-attachments/assets/79aa77ca-46a7-48e1-a009-4389b46ddd08)
+
+# Deep learning-based Food Recipe Generator
 
 Food identification focuses on ingredients, and recipes, not preparation methods.
 
